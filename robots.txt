@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zhang-yunfan.github.io/sitemap.xml
+Sitemap: http://zhang-yunfan.github.io/sitemap.xml
